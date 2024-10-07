@@ -1,2 +1,2 @@
 # Innovation-Challenge
-Information, resources and discussion to support the Innovation Challenge Hackathon May 28 to June 10, 2024
+The Innovation Challenge Hackathon is back! October 21 through November 1, 2024
